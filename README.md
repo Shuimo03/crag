@@ -1,2 +1,2 @@
 # crag
-code-review-agent
+code-review-bot
